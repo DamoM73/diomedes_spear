@@ -1,0 +1,18 @@
+---
+share: true
+color: var(--mk-color-green)
+---
+Use for [[./Ability Tests|Ability Tests]]
+
+| Ability       | Description                                                                                                    | [[./Character Creation/Focuses|Focuses]]                                                                                                                                                                                 |
+| ------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Accuracy      | Accuracy measures aim and precision, and measures your ability to hit targets with ranged or thrown weapons.   | Gunnery<br>Pistols<br>Rifles<br>Throwing                                                                                                                                                    |
+| Communication | Communication covers social skills and generally making friends and influencing people.                        | Bargaining<br>Deception<br>Disguise<br>Etiquette<br>Expression<br>Gambling<br>Investigation<br>Leadership<br>Performing<br>Persuasion<br>Seduction                                          |
+| Constitution  | Constitution is your character’s overall health, fortitude, and resistance to harm, illness, and fatigue.      | Running<br>Stamina<br>Swimming<br>Tolerance                                                                                                                                                 |
+| Dexterity     | Dexterity covers deftness, agility, and reaction time, affecting how quickly and gracefully you move.          | Acrobatics<br>Crafting<br>Driving<br>Free-fall<br>Initiative<br>Piloting<br>Sleight of Hand<br>Stealth                                                                                      |
+| Fighting      | Fighting is your character’s capability and prowess in close combat, ranging from a brawl to wielding weapons. | Brawling<br>Grappling<br>Heavy Weapons<br>Light Weapons                                                                                                                                     |
+| Intelligence  | Intelligence measures a character’s reasoning, memory, problem-solving, and overall knowledge.                 | Art<br>Business<br>Cryptography<br>Current Affairs<br>Demolitions<br>Engineering<br>Evaluation<br>Law<br>Medicine<br>Navigation<br>Research<br>Science<br>Security<br>Tactics<br>Technology |
+| Perception    | Perception is the ability to pick up on and notice things using any of the character’s senses.                 | Empathy<br>Hearing<br>Intuition<br>Searching<br>Seeing<br>Smelling<br>Survival<br>Tasting<br>Touching<br>Tracking                                                                           |
+| Strength      | Strength is sheer muscle power and the ability to apply it, from lifting heavy things to feats of athletics.   | Climbing<br>Intimidation<br>Jumping<br>Might                                                                                                                                                |
+| Willpower     | Willpower measures self control, self-discipline, mental fortitude, confidence.                                | Courage<br>Faith<br>Morale<br>Self-Discipline                                                                                                                                               |
+
